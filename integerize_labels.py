@@ -1,6 +1,6 @@
 """
-Ethan P. Gould, epg2133
-Engineering 1006, HW5 
+Ethan P. Gould
+ethanpgould@gmail.com 
 
 File contains function integerize_labels. 
 	Loops over input matrix rows creating dictionary that correleates str 
