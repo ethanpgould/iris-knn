@@ -1,6 +1,6 @@
 """
-Ethan P. Gould, epg2133
-Engineering 1006, HW5 
+Ethan P. Gould
+ethanpgould@gmail.com
 
 File contains function to plot the respecitve columns of a matrices containing
 flower measurement data using matplotlib. Input matrix is partitions into 
