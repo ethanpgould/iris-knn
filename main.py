@@ -1,6 +1,6 @@
 """
-Ethan P. Gould, epg2133
-Engineering 1006, HW5 
+Ethan P. Gould
+ethanpgould@gmail.com
 
 """
 from create_data import create_data
@@ -37,15 +37,6 @@ def compare_errors(k_vals, input_data_file):
         predicted_labels = knn(train, test, k)
         error_rate = calculate_error_rate(predicted_labels, test)
         errors[k] = error_rate
-
-    # TODO (if you like):
-    ## BONUS: weighting
-    # for k in k_vals:
-    #     weighted_predicted_labels = weighted_knn(train, test, k)
-    #     weighted_error_rate = calculate_error_rate(weighted_predicted_labels,
-    #           test)
-    #     print("Weighted error value for k = %d was %f" % (k,
-    #        weighted_error_rate)
 
     return errors
 
