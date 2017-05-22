@@ -1,6 +1,6 @@
 """
-Ethan P. Gould, epg2133
-Engineering 1006, HW5 
+Ethan P. Gould
+ethanpgould@gmail.com 
 
 File contains funciton split() that parses an input matrix, selecting 15 
 random instances of each type for output test_data. The remaining instances 
