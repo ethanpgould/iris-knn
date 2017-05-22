@@ -1,6 +1,6 @@
 """
-Ethan P. Gould, epg2133
-Engineering 1006, HW5 
+Ethan P. Gould
+ethanpgould@gmail.com
 
 File contains function find_k_nearest_neighbors().
 Returns the nearest data points to a given numpy vector. 
