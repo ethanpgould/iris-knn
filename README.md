@@ -1,3 +1,3 @@
-# iris-knn ###Ethan P. Gould
+# iris-knn
 
 A simple python knn classifer built from scrath with numpy. 
