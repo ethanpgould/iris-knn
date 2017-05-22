@@ -1,6 +1,6 @@
 """
-Ethan P. Gould, epg2133
-Engineering 1006, HW5 
+Ethan P. Gould
+ethanpgould@gmail.com
 
 File contains function comparing the predicted labels of the test set to the 
 labels found in the final column of the test data matrix. Returns a float 
