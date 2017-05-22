@@ -1,6 +1,6 @@
 """
-Ethan P. Gould, epg2133
-Engineering 1006, HW5 
+Ethan P. Gould
+ethanpgould@gmail.com
 
 Function takes two numpy vectors of length (n+1) and computes the euclidean 
 distance between the first n values of each vector. Returns a float value. 
